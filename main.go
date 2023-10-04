@@ -10,7 +10,7 @@ func split(sum int) (x, y int) {
 	return
 }
 
-//输入a和b并得出他们的积
+// 输入a和b并得出他们的积
 func multiple(a, b int64) (result int64) {
 	result = a * b
 	return
